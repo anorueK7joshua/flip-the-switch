@@ -1,0 +1,51 @@
+* {
+    background-color: #CBDCEB;
+    text-align: center;
+}
+h1 {
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    background-color: #133E87;
+    padding: 30px;
+    border-radius: 15px;
+    font-size: 40px;
+}
+a {
+    color: #608BC1;
+    background-color: #133E87;
+    border-radius: 15px;
+}
+h2 {
+    background-color: #133E87;
+    padding: 30px;
+    border-radius: 15px;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-size: 30px;
+}
+#pass {
+    background-color: #133E87;
+    border-radius:10px;
+    padding: 10px;
+}
+footer {
+    background-color: #133E87;
+    border-radius: 15px;
+    padding: 30px;
+    font-family: "Rubik Bubbles", system-ui;
+    color: #608BC1;
+}
+small {
+    background-color: #133E87;
+    font-size: 20px;
+}
+button {
+    background-color: #133E87;
+    border-radius: 15px;
+    padding: 10px;
+    color: #608BC1;
+    font-size: 20px;
+    font-family: "Rubik Bubbles", system-ui;
+}
+#simple {
+    font-family: "Jacquard 12 Charted", system-ui;
+    font-size: 50px;
+}
